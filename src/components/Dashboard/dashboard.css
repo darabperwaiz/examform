@@ -1,0 +1,40 @@
+.main_form_wrapper {
+  max-width: 1200px;
+  margin: 10px auto;
+  background-color: rgb(255, 255, 255);
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+  padding: 10px;
+}
+
+.dash_form_container {
+  min-height: 1103px;
+}
+
+.dash_form_wrapper {
+  /* background-color: red; */
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.form_inputs {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+.export {
+  margin-top: 20px;
+}
+
+.down_btn {
+  padding: 5px 20px;
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(88, 163, 255);
+  color: white;
+  margin-top: 10px;
+}
